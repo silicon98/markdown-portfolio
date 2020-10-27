@@ -1,5 +1,7 @@
 Replace this with a list of your favorite things.
 * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* courses
+  * First Day on GitHub
+  * Introduction to GitHub - github-slideshow
+  * GitHub Pages - github-pages-with-jekyll
+  * Communicating using Markdown - markdown-portfolio
